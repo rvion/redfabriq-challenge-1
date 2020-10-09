@@ -15,3 +15,21 @@
 The analysis problem may be refined during interviews.
 
 More info: [link1](), [link2](), [link3]()
+
+---
+
+## Instructions
+
+### 1. clone this repository.
+
+It contains a simple `react` application (created with `create-react-app`) that uses `mobx` for its state management
+
+### 2. Start the application
+
+with
+
+```shell
+npm start
+```
+
+you'll see a b

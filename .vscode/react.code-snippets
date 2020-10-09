@@ -1,0 +1,11 @@
+{
+	"create new component":{
+		"scope": "typescriptreact",
+		"prefix": "ocmop",
+		"body":[
+			"export const $1 = observer(function $1_() {",
+			"    return <div>$2</div>",
+			"})"
+		]
+	}
+}

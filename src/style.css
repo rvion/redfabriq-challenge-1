@@ -3,7 +3,11 @@
 
 .w100 {width: 100%;}
 .h100 {height: 100%;}
-.block {padding:.2rem; margin:.2rem; border:1px solid gray;}
+.block {
+    padding:.2rem;
+    margin:.2rem; border:1px solid gray;
+    background-color: rgba(153, 169, 190, 0.164);
+}
 .row {display: flex; flex-direction: row;}
 .col {display: flex; flex-direction: column;}
 .grow {flex-grow: 1;}
@@ -11,3 +15,5 @@
 .rel {display: relative;}
 .abs {display: absolute;}
 .abs0 {display: absolute; top:0; left:0; right:0; bottom: 0;}
+
+pre{background-color: aliceblue; white-space: pre-wrap;word-break: break-all;}

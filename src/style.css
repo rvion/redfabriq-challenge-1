@@ -1,0 +1,13 @@
+#root, html, body {width: 100%; height: 100%; margin:0;}
+#root {display: flex; flex-direction: column;}
+
+.w100 {width: 100%;}
+.h100 {height: 100%;}
+.block {padding:.2rem; margin:.2rem; border:1px solid gray;}
+.row {display: flex; flex-direction: row;}
+.col {display: flex; flex-direction: column;}
+.grow {flex-grow: 1;}
+.basis0 {flex-basis: 0;}
+.rel {display: relative;}
+.abs {display: absolute;}
+.abs0 {display: absolute; top:0; left:0; right:0; bottom: 0;}

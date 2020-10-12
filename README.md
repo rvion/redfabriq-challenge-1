@@ -11,13 +11,15 @@ Low-code development platform is an application that provides the Graphical User
 
 **For the experiment we will intend to provide:**
 
--   TODO
+
+- We will provide examples of  `react`  applications with their models.
+- We will provide an example of interpreter that automatically generate the apps from the initial models.
+- An engine to execute the interprer and visualize the web applications on the browser. 
+  
+
 
 **We expect:**
-
--   TODO
-    More info: TODO
-
+Inspiring  by the provides apps, models and interpreter, we except thay you propose new models and interpreters to implement two new simple applications.
 ---
 
 ## Instructions

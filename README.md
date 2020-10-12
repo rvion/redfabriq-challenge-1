@@ -1,8 +1,13 @@
-# RedFabriQ :heart: CASE in Tools 2020
+# RedFabriQ :heart: Challenge
 
-**Context**: TODO
+**Context**: RedFabriQ is a French startup-studio with a software & hardware culture. Among the projects that RedFabriQ are promoting are related to what is referred to as low-code platforms.
 
-**Goal**: TODO
+Low-code development platform is an application that provides the Graphical User Interface for programming and thereby develops the code at a very fast rate & reduces the traditional programming efforts.
+
+**Goal**: RedFabriQ challange aims studying the foundations of a low-code platform by consdiring two main dimensions in the context of web-developement:
+
+-   What are the relevant abstractions needed to implement web applications?
+-   How to implement the interpreter needed to execute the abstraction and generate the code of the web application?
 
 **For the experiment we will intend to provide:**
 
@@ -11,8 +16,7 @@
 **We expect:**
 
 -   TODO
-
-More info: TODO
+    More info: TODO
 
 ---
 
@@ -31,5 +35,4 @@ npm start
 ```
 
 you'll see instructions open a new web page like this:
-
 ![A report on feasibility and cost - supported by an experiment.](./doc.png)

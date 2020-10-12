@@ -1,6 +1,6 @@
 # RedFabriQ :heart: Challenge
 
-**Context**: RedFabriQ is a French startup-studio with a software & hardware culture. Among the projects that RedFabriQ are promoting are related to what is referred to as low-code platforms.
+**Context**: [RedFabriQ](https://www.redfabriq.com/en/index.html)  is a French startup-studio with a software & hardware culture. Among the projects that RedFabriQ are promoting are related to what is referred to as low-code platforms.
 
 Low-code development platform is an application that provides the Graphical User Interface for programming and thereby develops the code at a very fast rate & reduces the traditional programming efforts.
 
